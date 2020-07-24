@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About
-nav_order: 1
+title: Contact
+nav_order: 2
 ---
 
 
 
-## About
+## Contact
