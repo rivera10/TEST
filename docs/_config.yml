@@ -1,6 +1,6 @@
 title: "TEST Page"
 #remote_theme: pmarsceill/just-the-docs
-remote_theme: rivera10/Test-documentation
+remote_theme: rivera10/docs-template
 search_enabled: true
 
 # Footer content
